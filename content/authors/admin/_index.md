@@ -35,10 +35,10 @@ interests:
   - Machine Learning
 
 education:
-  - area: Bachelor's degree in Computer Science
-    institution: Universiry of Bari
   - area: High School Diploma in Information and Communication Technology
     institution: I.I.S. G.B. Pentasuglia
+  - area: Bachelor's degree in Computer Science
+    institution: Universiry of Bari
 work:
   - position: Technical Support
     company_name: K Computer
