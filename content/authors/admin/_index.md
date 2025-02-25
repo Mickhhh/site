@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Loiudice Michele
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michele
+last_name: Loiudice
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥
 
 # Is this the primary user of the site?
 superuser: true
