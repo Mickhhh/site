@@ -43,7 +43,7 @@ work:
   - position: Technical Support
     company_name: K Computer
     company_url: 'https://www.kcomputer.it/'
-    company_logo: './Logo_K_Computer.png'
+    company_logo: '/Logo_K_Computer.png'
 
 
 
