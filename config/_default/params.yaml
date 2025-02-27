@@ -37,6 +37,16 @@ header:
     logo:
       text: "Your Name"
 
+# Site footer
+footer:
+  copyright:
+    notice: 'Test'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
