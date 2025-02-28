@@ -13,6 +13,9 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+# Role/position/tagline
+role: Bachelor's Student in Computer Science
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -52,17 +55,13 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: C
+      - name: Team Working
         description: ''
         percent: 70
         icon: code-bracket
-      - name: C++
+      - name: C | C++ | Java | Javascript
         description: ''
         percent: 70
-        icon: code-bracket
-      - name: Java-Script
-        description: ''
-        percent: 60
         icon: code-bracket
 
 languages:
