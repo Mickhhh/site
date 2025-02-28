@@ -2,9 +2,6 @@
 # Display name
 title: Loiudice Michele
 
-# Name pronunciation (optional)
-name_pronunciation:
-
 # Full name (for SEO)
 first_name: Michele
 last_name: Loiudice
@@ -39,19 +36,22 @@ education:
     institution: I.I.S. G.B. Pentasuglia
   - area: Bachelor's degree in Computer Science
     institution: Universiry of Bari
+
 work:
   - position: Technical Support
     company_name: K Computer
     company_url: 'https://www.kcomputer.it/'
     company_logo: '/Logo_K_Computer.png'
 
-
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: Problem Solving
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: C
         description: ''
         percent: 70
@@ -59,11 +59,11 @@ skills:
       - name: C++
         description: ''
         percent: 70
-        icon: chart-bar
+        icon: code-bracket
       - name: Java-Script
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: code-bracket
 
 languages:
   - name: Italian
