@@ -1,6 +1,6 @@
 ---
 title: Data Structure & Algorithms
-date: 2025-2-24
+date: 2025-02-24
 external_link: https://github.com/loiudicemichele/algorithms-data_structures
 tags:
   - Algorithms

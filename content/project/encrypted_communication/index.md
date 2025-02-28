@@ -1,6 +1,6 @@
 ---
 title: Encrypted Communication
-date: 2022-2-26
+date: 2022-02-26
 external_link: https://github.com/loiudicemichele/encrypted-communication
 tags:
   - Encrypted Communication

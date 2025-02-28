@@ -1,6 +1,6 @@
 ---
 title: 3D Museum Tour
-date: 2024-6-19
+date: 2024-06-19
 external_link: https://github.com/loiudicemichele/Phone-Book
 tags:
   - Phone book
