@@ -64,7 +64,7 @@ skills:
         percent: 70
         icon: code-bracket
 
-languages:
+languages: 
   - name: Italian
     percent: 100
   - name: English
